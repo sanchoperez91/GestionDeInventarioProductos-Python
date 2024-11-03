@@ -1,4 +1,4 @@
-# GestionDeInventarioProductosPython
+# GestionDeInventarioProductos-Python
 
 # 📦 Inventario de Productos en Python
 
